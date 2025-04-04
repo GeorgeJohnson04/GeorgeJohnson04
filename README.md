@@ -5,7 +5,12 @@
 
 ## 👨‍💻 About Me
 
-I’m a data-driven analyst passionate about solving complex problems through data modeling, visualization, and storytelling. Currently pursuing my B.S. in Economics & Public Policy at the University of Houston, I specialize in data analysis, operations optimization, and economic research.
+I’m a data-driven analyst passionate about solving complex problems through data modeling, visualization, and storytelling. I will be pursuing my Masters of Science in Applied Economics in Fall 2025, I specialize in data analysis, operations optimization, and economic research. 
+
+🌱 **Currently Learning**
+- 📈 **Power BI** – Enhancing my data visualization & reporting skills
+- 🐍 **Python** – Focusing on data manipulation and automation
+- 📊 **Advanced Excel** – VBA macros & Power Query
 
 I'm particularly interested in roles involving:
 - 📈 Economic, Business, Financial, , Data, and Operations Analysis
