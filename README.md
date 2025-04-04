@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm George Johnson 👋</h1>
-<p align="center">📊 Data Analyst | 💼 Business Consultant | 🧠 Academic</p>
+<p align="center">📊 Data Analyst | 💼 Business Advisor | 🧠 Student</p>
 
 ---
 
