@@ -48,7 +48,7 @@ I’m a data-driven analyst passionate about solving complex problems through da
 
 ## 📫 Let’s Connect
 
-- 🌐 [Portfolio](https://linktr.ee/georgejohnson04)
+- 🌐 [All My Links](https://linktr.ee/georgejohnson04)
 - 💼 [LinkedIn](https://linkedin.com/in/george-johnson2004)
 - 📧 george.johnson022004@gmail.com
 
