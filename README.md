@@ -12,7 +12,7 @@ I’m a data-driven analyst passionate about solving complex problems through da
 - 🐍 **Python** – Focusing on data manipulation and automation
 - 📊 **Advanced Excel** – VBA macros & Power Query
 
-I'm particularly interested in roles involving:
+ **Areas of Interest**
 - 📈 Economic, Business, Financial, , Data, and Operations Analysis
 - 🧪 Research & Policy Impact
 - 🔄 Process Automation & Dashboard Development
