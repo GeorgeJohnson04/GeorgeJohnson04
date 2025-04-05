@@ -7,7 +7,7 @@
 
 I’m a data-driven analyst passionate about solving complex problems through data modeling, visualization, and storytelling. I will be pursuing my Masters of Science in Applied Economics in Fall 2025, I specialize in data analysis, operations optimization, and economic research. 
 
-🌱 **Currently Developing Skills in**
+🌱 **Currently Refining Skills in**
 - 📈 **Power BI** – Enhancing my data visualization & reporting skills
 - 🐍 **Python** – Focusing on data manipulation and automation
 - 📊 **Advanced Excel** – VBA macros & Power Query
