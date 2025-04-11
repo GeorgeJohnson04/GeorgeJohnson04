@@ -8,15 +8,15 @@
 I’m a data-driven analyst passionate about solving complex problems through data modeling, visualization, and storytelling. I will be pursuing my Masters of Science in Applied Economics in Fall 2025, I specialize in data analysis, operations optimization, and economic research. 
 
 🌱 **Currently Refining Skills in**
-- 📈 **Power BI** – Enhancing my data visualization & reporting skills
-- 🐍 **Python** – Focusing on data manipulation and automation
-- 📊 **Advanced Excel** – VBA macros & Power Query
-- 🛢️ **My-SQL** - Database Management and Building 
+- **Power BI** – Enhancing my data visualization & reporting skills
+- **Python** – Focusing on data manipulation and automation
+- **Advanced Excel** – VBA macros & Power Query
+- **My-SQL** - Database Management and Building 
 
  **Areas of Interest**
-- 📈 Economic, Business, Financial, , Data, and Operations Analysis
-- 🧪 Research & Policy Impact
-- 🔄 Process Automation & Dashboard Development
+- Economic, Business, Financial, , Data, and Operations Analysis
+- Research & Policy Impact
+- Process Automation & Dashboard Development
 
 ---
 
@@ -39,11 +39,11 @@ I’m a data-driven analyst passionate about solving complex problems through da
 
 ## 🔥 Highlights
 
-- 🧮 **Harris County Treasury** – Automated VBA macros that cut manual work by 82%
-- 📊 **Asia Society Texas** – Boosted program revenue by 43% using cost-benefit models
-- 🎮 **Southern Esports Conference** – Created Python-based player rating systems
-- 💡 **University of Houston Research** – Modeled policy effects with regression analysis on 100k+ data points
-- 📱 **Poliquicks App** – Increased user engagement by 63% through data-driven targeting
+- **Harris County Treasury** – Automated VBA macros that cut manual work by 82%
+- **Asia Society Texas** – Boosted program revenue by 43% using cost-benefit models
+- **Southern Esports Conference** – Created Python-based player rating systems
+- **University of Houston Research** – Modeled policy effects with regression analysis on 100k+ data points
+- **Poliquicks App** – Increased user engagement by 63% through data-driven targeting
 
 ---
 
