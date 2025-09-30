@@ -39,11 +39,11 @@ I’m a data-driven analyst passionate about solving complex problems through da
 
 ## 🔥 Highlights
 
-- **Harris County Treasury** – Automated VBA macros that cut manual work by 82%
-- **Asia Society Texas** – Boosted program revenue by 43% using cost-benefit models
+- **Harris County Treasury** – Automated VBA macros that cut manual work by 70%
+- **Asia Society Texas** – Boosted program revenue by 40% using cost-benefit models
 - **Southern Esports Conference** – Created Python-based player rating systems
-- **University of Houston Research** – Modeled policy effects with regression analysis on 100k+ data points
-- **Poliquicks App** – Increased user engagement by 63% through data-driven targeting
+- **University of Houston Research** – Modeled policy effects with regression analysis over 1 million data points
+- **Poliquicks App** – Increased user engagement by 40% through data-driven targeting
 
 ---
 
