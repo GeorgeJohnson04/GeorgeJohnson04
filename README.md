@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/george-johnson2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:george.johnson022004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linktr.ee/georgejohnson04"><img src="https://img.shields.io/badge/Portfolio-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://georgejohnson04.github.io/GeorgeJ-portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Commercial+Analyst+%40+Enbridge;M.S.+Applied+Economics+%40+Johns+Hopkins+%7C+4.0+GPA;Financial+Modeling+%7C+Econometrics+%7C+Python+%26+R;Turning+complex+datasets+into+decisions." alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧭 At a Glance
+## 🧭 At a Glanceh
 
 ```text
 🏢  Role        Commercial Analyst @ Tidal Energy Marketing – Enbridge
