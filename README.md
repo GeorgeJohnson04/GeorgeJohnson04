@@ -12,7 +12,7 @@
 
 ---
 
-## 🧭 At a Glanceh
+## 🧭 At a Glance
 
 ```text
 🏢  Role        Commercial Analyst @ Tidal Energy Marketing – Enbridge
