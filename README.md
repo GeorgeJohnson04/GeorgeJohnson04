@@ -119,8 +119,12 @@ Location       Houston, TX
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=GeorgeJohnson04&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=GeorgeJohnson04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile&card_width=450" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeJohnson04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeJohnson04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GeorgeJohnson04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
