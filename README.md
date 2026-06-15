@@ -118,19 +118,7 @@ Location       Houston, TX
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Total_Commits-450%2B-2F81F7?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" alt="Total Commits"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/GeorgeJohnson04?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27&color=2F81F7&label=Followers" alt="Followers"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=GeorgeJohnson04&style=for-the-badge&color=2F81F7&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeJohnson04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
 </div>
-
 <img src="https://github-readme-stats.vercel.app/api/?username=GeorgeJohnson04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile&card_width=450" height="170"/>
 &nbsp;
 </div>
