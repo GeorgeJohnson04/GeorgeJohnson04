@@ -88,7 +88,7 @@ Location       Houston, TX
 ## Projects
 
 **Crude Oil Price Forecasting Model**  |  `Python` `OLS Regression` `HAC Standard Errors`
-> Built three model families (price levels, returns, and the WCS–WTI differential) for inflation-adjusted crude prices, validated walk-forward. Engineered time-varying geopolitical-risk features with Newey-West HAC errors; the differential model reached **71% directional accuracy**, and a confidence-thresholded strategy backtested to ~**30pp** outperformance vs buy-and-hold at one-eighth the drawdown. [![Forecasting Model](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/GeorgeJohnson04/PADD-3-Supply-Demand-Balance-Model](https://github.com/GeorgeJohnson04/OLS-Crude-Oil-Model-Enbridge))
+> Built three model families (price levels, returns, and the WCS–WTI differential) for inflation-adjusted crude prices, validated walk-forward. Engineered time-varying geopolitical-risk features with Newey-West HAC errors; the differential model reached **71% directional accuracy**, and a confidence-thresholded strategy backtested to ~**30pp** outperformance vs buy-and-hold at one-eighth the drawdown. [![Forecasting Model](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/OLS-Crude-Oil-Model-Enbridge)
 
 **PADD 3 Sour & Heavy Crude Supply/Demand Balance Model**  |  `Excel`
 > Engineered a month-by-month native-Excel model balancing Gulf Coast sour/heavy supply from Gulf of Mexico production, waterborne imports, and Canadian pipeline flows. Sized heavy demand from refinery delayed-coking capacity, reconciled inter-PADD pipeline movements to reported data, and parsed **10+ years** of EIA history into seasonal norms with configurable run scenarios and monthly surplus/deficit outputs. [![PADD 3 Supply & Demand](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/PADD-3-Supply-Demand-Balance-Model)
@@ -101,11 +101,6 @@ Location       Houston, TX
 
 **Employment & Crime Causal Analysis**  |  `R` `Fixed-Effects Regression` `AEA Panel Data`
 > Applied fixed-effects models with clustered standard errors to estimate the causal effect of employment on crime rates, assembling 8 model specifications over **100,000+** data points with demographic controls. [![Employment on Crime](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/R-Project-Replication-and-Reanalysis)
-
----
-
-## Certifications
-
 - **Quantitative Economics Certificate** — University of Houston
 - **Statistics in Python** — DataCamp
 - **Power BI** — LinkedIn Learning
