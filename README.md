@@ -2,7 +2,7 @@
 
 # George Johnson
 
-**Commercial Analyst @ Enbridge  ·  M.S. Applied Economics @ Johns Hopkins**
+**M.S. Applied Economics @ Johns Hopkins University**
 
 Risk Modeling · Econometrics · Causal Inference · Financial & Data Analysis
 
@@ -10,7 +10,7 @@ Risk Modeling · Econometrics · Causal Inference · Financial & Data Analysis
 <a href="mailto:george.johnson022004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://georgejohnson04.github.io/GeorgeJ-portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=680&lines=Commercial+Analyst+%40+Enbridge;M.S.+Applied+Economics+%40+Johns+Hopkins;Risk+Modeling+%7C+Econometrics+%7C+Causal+Inference;Python+%7C+R+%7C+SQL+%7C+VBA+%7C+STATA+%7C+MATLAB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=680&lines=M.S.+Applied+Economics+%40+Johns+Hopkins;Risk+Modeling+%7C+Econometrics+%7C+Causal+Inference;Financial+%26+Data+Analysis+%7C+Forecasting;Python+%7C+R+%7C+SQL+%7C+VBA+%7C+STATA+%7C+MATLAB" alt="Typing SVG" />
 
 </div>
 
@@ -89,19 +89,19 @@ Location       Houston, TX
 ## Projects
 
 **Crude Oil Price Forecasting Model**  |  `Python` `OLS Regression` `HAC Standard Errors`
-> Built three model families (price levels, returns, and the WCS–WTI differential) for inflation-adjusted crude prices, validated walk-forward. Engineered time-varying geopolitical-risk features with Newey-West HAC errors; the differential model reached **71% directional accuracy**, and a confidence-thresholded strategy backtested to ~**30pp** outperformance vs buy-and-hold at one-eighth the drawdown.
+> Built three model families (price levels, returns, and the WCS–WTI differential) for inflation-adjusted crude prices, validated walk-forward. Engineered time-varying geopolitical-risk features with Newey-West HAC errors; the differential model reached **71% directional accuracy**, and a confidence-thresholded strategy backtested to ~**30pp** outperformance vs buy-and-hold at one-eighth the drawdown. [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04?tab=repositories)
 
 **PADD 3 Sour & Heavy Crude Supply/Demand Balance Model**  |  `Excel`
-> Engineered a month-by-month native-Excel model balancing Gulf Coast sour/heavy supply from Gulf of Mexico production, waterborne imports, and Canadian pipeline flows. Sized heavy demand from refinery delayed-coking capacity, reconciled inter-PADD pipeline movements to reported data, and parsed **10+ years** of EIA history into seasonal norms with configurable run scenarios and monthly surplus/deficit outputs.
+> Engineered a month-by-month native-Excel model balancing Gulf Coast sour/heavy supply from Gulf of Mexico production, waterborne imports, and Canadian pipeline flows. Sized heavy demand from refinery delayed-coking capacity, reconciled inter-PADD pipeline movements to reported data, and parsed **10+ years** of EIA history into seasonal norms with configurable run scenarios and monthly surplus/deficit outputs. [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/PADD-3-Supply-Demand-Balance-Model)
 
 **Portfolio Risk & Performance Tracker**  |  `Python` `Excel` `Yahoo Finance API`
 > Automated real-time portfolio monitoring via scheduled Python scripts tracking beta, sector concentration, and risk allocation. Built a trade ledger tracking cost basis, unrealized P&L, and risk-adjusted performance attribution across 9 industries. [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/stock-portfolio-tracker)
 
 **Economic Policy Impact Simulation**  |  `MATLAB` `Python (NumPy, Pandas)`
-> Modeled tax and tariff impacts on GDP, GDP per capita, and wealth concentration. Migrated the legacy MATLAB model to Python with NumPy and Pandas for extended scenario analysis and forecasting.
+> Modeled tax and tariff impacts on GDP, GDP per capita, and wealth concentration. Migrated the legacy MATLAB model to Python with NumPy and Pandas for extended scenario analysis and forecasting. [![MATLAB Version](https://img.shields.io/badge/MATLAB_Version-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/MATLAB-Donald-Trump-Simulation-Final) [![Python Version](https://img.shields.io/badge/Python_Version-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Python-Policy-Analysis-Final)
 
 **Employment & Crime Causal Analysis**  |  `R` `Fixed-Effects Regression` `AEA Panel Data`
-> Applied fixed-effects models with clustered standard errors to estimate the causal effect of employment on crime rates, assembling 8 model specifications over **100,000+** data points with demographic controls.
+> Applied fixed-effects models with clustered standard errors to estimate the causal effect of employment on crime rates, assembling 8 model specifications over **100,000+** data points with demographic controls. [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/R-Project-Replication-and-Reanalysis)
 
 ---
 
@@ -118,6 +118,18 @@ Location       Houston, TX
 ## GitHub Stats
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Total_Commits-450%2B-2F81F7?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" alt="Total Commits"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/GeorgeJohnson04?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27&color=2F81F7&label=Followers" alt="Followers"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=GeorgeJohnson04&style=for-the-badge&color=2F81F7&label=Profile+Views" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeJohnson04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=GeorgeJohnson04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile&card_width=450" height="170"/>
 &nbsp;
