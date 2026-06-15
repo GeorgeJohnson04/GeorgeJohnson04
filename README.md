@@ -103,7 +103,7 @@ Location       Houston, TX
 > Applied fixed-effects models with clustered standard errors to estimate the causal effect of employment on crime rates, assembling 8 model specifications over **100,000+** data points with demographic controls. [![Employment on Crime](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/R-Project-Replication-and-Reanalysis)
 
 ----- 
-Certifications
+## Certifications
 - **Quantitative Economics Certificate** — University of Houston
 - **Statistics in Python** — DataCamp
 - **Power BI** — LinkedIn Learning
