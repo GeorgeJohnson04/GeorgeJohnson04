@@ -7,6 +7,7 @@
 Risk Modeling · Econometrics · Causal Inference · Financial & Data Analysis
 
 <a href="https://georgejohnson04.github.io"><img src="https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/george-t-johnson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:george.johnson022004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=680&lines=M.S.+Applied+Economics+%40+Johns+Hopkins;Risk+Modeling+%7C+Econometrics+%7C+Causal+Inference;Financial+%26+Data+Analysis+%7C+Forecasting;Python+%7C+R+%7C+SQL+%7C+VBA+%7C+STATA+%7C+MATLAB" alt="Typing SVG" />
