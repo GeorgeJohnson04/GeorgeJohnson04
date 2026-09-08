@@ -63,6 +63,11 @@ Location       Houston, TX
 ---
 
 ## Experience
+**AmeriGas** | *Commercial Optimization Analyst* | Aug 2026 - Current
+- Improve financial hedging through Swaps, Options, and Futures
+- Create predictive forecasting models for propane pricing
+- Report import volumes weekly and monthly to EIA, maintaining scrutiny
+- Automate reporting through macro use to improve work load and shift focus to more important processes
 
 **Enbridge — Tidal Energy Marketing**  |  *Commercial Analyst (Spring Contract)*  |  Mar 2026 – Jun 2026
 - Audited and reconciled **150+** daily commodity trades across natural gas portfolios, validating risk exposure and mark-to-market P&L
