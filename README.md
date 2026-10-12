@@ -18,7 +18,7 @@ Risk Modeling · Econometrics · Causal Inference · Financial & Data Analysis
 
 ## About
 
-Economics graduate student at Johns Hopkins (M.S. Applied Economics, 3.57 GPA) supporting commodity trading operations at Enbridge. Day-to-day, I audit natural gas and crude trade data, monitor counterparty credit exposure, and build Excel and SQL risk models. I work in Python, R, STATA, and MATLAB, with applied experience in OLS and fixed-effects regression, time-series forecasting, and causal inference.
+Economics graduate student at Johns Hopkins (M.S. Applied Economics, 3.57 GPA) working as a Commercial Optimization Analyst at UGI AmeriGas. Day-to-day, I automate Snowflake data workflows with Python and SQL, migrate legacy Excel models into Python web apps on AWS, and build AI agents that streamline commercial analysis. Previously, I supported natural gas trading at Enbridge, auditing trades and monitoring counterparty credit exposure. I work in Python, R, SQL, STATA, and MATLAB, with applied experience in OLS and fixed-effects regression, time-series forecasting, and causal inference.
 
 ---
 
