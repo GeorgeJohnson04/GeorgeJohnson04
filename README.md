@@ -24,7 +24,7 @@ Economics graduate student at Johns Hopkins (M.S. Applied Economics, 3.57 GPA) s
 ## At a Glance
 
 ```text
-Role           Commercial Analyst — Tidal Energy Marketing, Enbridge
+Role           Commercial Optimization Analyst - UGI Amerigas
 Graduate       M.S. Applied Economics — Johns Hopkins University | GPA: 3.57
 Undergraduate  B.S. Economics & Public Policy — University of Houston | Cum Laude
 Focus          Risk Modeling · Econometrics · Financial & Data Analysis
