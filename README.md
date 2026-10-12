@@ -8,6 +8,7 @@ Risk Modeling · Econometrics · Causal Inference · Financial & Data Analysis
 
 <a href="https://www.linkedin.com/in/george-johnson-jhu/"><img src="https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:george.johnson022004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="./Johnson_George_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2F81F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=680&lines=M.S.+Applied+Economics+%40+Johns+Hopkins;Risk+Modeling+%7C+Econometrics+%7C+Causal+Inference;Financial+%26+Data+Analysis+%7C+Forecasting;Python+%7C+R+%7C+SQL+%7C+VBA+%7C+STATA+%7C+MATLAB" alt="Typing SVG" />
 
@@ -18,6 +19,23 @@ Risk Modeling · Econometrics · Causal Inference · Financial & Data Analysis
 ## About
 
 Economics graduate student at Johns Hopkins (M.S. Applied Economics, 3.57 GPA) supporting commodity trading operations at Enbridge. Day-to-day, I audit natural gas and crude trade data, monitor counterparty credit exposure, and build Excel and SQL risk models. I work in Python, R, STATA, and MATLAB, with applied experience in OLS and fixed-effects regression, time-series forecasting, and causal inference.
+
+---
+
+## Resume
+
+<div align="center">
+
+<a href="./Johnson_George_Resume.pdf">
+  <img src="./resume-preview.png" alt="George Johnson Resume" width="750"/>
+</a>
+
+<br/>
+
+<a href="./Johnson_George_Resume.pdf"><img src="https://img.shields.io/badge/View_Full_Resume_(PDF)-2F81F7?style=flat-square&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/GeorgeJohnson04/GeorgeJohnson04/main/Johnson_George_Resume.pdf"><img src="https://img.shields.io/badge/Download-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
