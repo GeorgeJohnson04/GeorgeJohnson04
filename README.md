@@ -63,11 +63,11 @@ Location       Houston, TX
 ---
 
 ## Experience
-**AmeriGas** | *Commercial Optimization Analyst* | Aug 2026 - Current
-- Improve financial hedging through Swaps, Options, and Futures
-- Create predictive forecasting models for propane pricing
-- Report import volumes weekly and monthly to EIA, maintaining scrutiny
-- Automate reporting through macro use to improve work load and shift focus to more important processes
+**UGI - AmeriGas** | *Commercial Optimization Analyst* | Aug 2026 - Current
+-	Built and trained AI agents in Kiro (Python & Jupyter) to automate Snowflake data workflows
+-	Migrated Excel models to Python web apps on AWS, reducing run time by 99% (from 2 Hours to 1 Minute)
+-	Used SQL and Python within Snowflake for trend Analysis and data vulnerability identification, reviewed in Tableau and QlikView
+- Supported prompt engineering guidance, cutting token usage by 60% and increasing productivity by 70%
 
 **Enbridge — Tidal Energy Marketing**  |  *Commercial Analyst (Spring Contract)*  |  Mar 2026 – Jun 2026
 - Audited and reconciled **150+** daily commodity trades across natural gas portfolios, validating risk exposure and mark-to-market P&L
