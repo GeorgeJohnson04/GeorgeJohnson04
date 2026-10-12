@@ -6,7 +6,6 @@
 
 Risk Modeling · Econometrics · Causal Inference · Financial & Data Analysis
 
-<a href="https://www.linkedin.com/in/george-johnson-jhu/"><img src="https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:george.johnson022004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="./Johnson_George_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2F81F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
