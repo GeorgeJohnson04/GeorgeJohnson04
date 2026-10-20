@@ -8,7 +8,7 @@ Energy & Commodities · Risk Modeling · Econometrics · Python & SQL Automation
 
 <a href="https://georgejohnson04.github.io/index.html"><img src="https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:george.johnson022004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="./Johnson_George_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2F81F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="./Johnson_George_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2F81F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=680&lines=Commercial+Optimization+%40+UGI+AmeriGas;M.S.+Applied+Economics+%40+Johns+Hopkins;Crude+%26+Natural+Gas+Analytics;Python+%7C+SQL+%7C+Snowflake+%7C+R+%7C+VBA+%7C+STATA" alt="Typing SVG" />
 
