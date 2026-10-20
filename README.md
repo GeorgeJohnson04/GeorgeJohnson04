@@ -156,7 +156,32 @@ Location       Houston, TX
 > Pulls Texas Railroad Commission T-1 filings for crude pipelines, parses barrel volumes by district from the PDFs, and builds monthly receipts, deliveries, and ending-balance sheets. Merges results into the team's existing workbook without overwriting populated cells or formulas.
 
 **Trade Booking & Invoice Automation**  |  `Excel` `VBA`
-> A set of macro-driven workbooks: a deal entry form that books crude deals across every month of a strip with index-linked pricing, a distribution macro that fans financial trades out to monthly tabs, and a pipeline invoice model that converts batch volumes from m³ to barrels and applies US and Canadian tariffs.
+> A set of macro-driven workbooks: a deal entry form that books crude deals across every month of a strip with index-linked pricing, a distribution macro that fans financial trades out to monthly tabs, and a pipeline invoice model that converts batch volumes from m³ to barrels and applies US and Canadian tariffs. [![PnL Macro](https://img.shields.io/badge/Deal_Entry_Macro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Enbridge-PNL-Macro)
+
+---
+
+## GitHub Repositories
+
+### AmeriGas Analytics Tools  [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Amerigas)
+
+Propane supply planning, hedging, and cost-control tools built as a Commercial Optimization Analyst.
+
+<sub>All data shown in these projects is synthetic. Plant, terminal, and supplier names, prices, volumes, and freight rates are invented.</sub>
+
+**Propane Supply Optimizer**  |  `Python` `SciPy/HiGHS` `Flask` `JavaScript`
+> Rebuilt an Excel/OpenSolver supply-and-transport linear program in Python, solved with HiGHS, and wrapped it in a local web app so planners can run scenarios without touching the model. [![Supply Optimizer](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Amerigas/tree/main/propane-supply-optimizer)
+
+**Hedge Product Tracker**  |  `Python` `pandas` `Parquet` `openpyxl`
+> Builds daily blended forward-strip prices for hedge programs, weighted by origin mix and demand shape, from Argus hub curves. Keeps a growing multi-year history so you can see how strip prices have moved over 1D, 1M, and 1Y. [![Hedge Tracker](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Amerigas/tree/main/hedge-product-tracker)
+
+**Landed-Cost Data Quality**  |  `Python` `pandas` `Snowflake` `SQL`
+> Pulls per-load landed-cost detail from Snowflake and flags outliers, blanks, duplicates, spelling variants, and date gaps. Archives history through Time Travel and reconciles actual cost against Finance's plan by district in formatted Excel reports. [![Landed Cost](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Amerigas/tree/main/landed-cost-data-quality)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GeorgeJohnson04/Amerigas/main/propane-supply-optimizer/images/webapp-results.png" width="32%"/>
+  <img src="https://raw.githubusercontent.com/GeorgeJohnson04/Amerigas/main/hedge-product-tracker/images/strip-price-history.png" width="32%"/>
+  <img src="https://raw.githubusercontent.com/GeorgeJohnson04/Amerigas/main/landed-cost-data-quality/images/lic-vs-finance.png" width="32%"/>
+</p>
 
 ---
 
@@ -175,13 +200,13 @@ Location       Houston, TX
 <br/>
 
 **Economic Policy Impact Simulation**  |  `MATLAB` `Python` `LaTeX`
-> Elasticity-based model of how tax and tariff changes affect GDP, GDP per capita, and top 10% wealth concentration. Rebuilt in Python with probability estimates of rising inequality and comparisons of real policy proposals, with a final policy memo. [![MATLAB Version](https://img.shields.io/badge/MATLAB_Version-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/MATLAB-Donald-Trump-Simulation-Final) [![Python Version](https://img.shields.io/badge/Python_Version-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Python-Policy-Analysis-Final)
+> Elasticity-based model of how tax and tariff changes affect GDP, GDP per capita, and top 10% wealth concentration. Rebuilt in Python with probability estimates of rising inequality and comparisons of real policy proposals, with a final policy memo. [![MATLAB Version](https://img.shields.io/badge/MATLAB_Version-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/MATLAB-Donald-Trump-Simulation-Final) [![Python Version](https://img.shields.io/badge/Python_Version-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Python-Policy-Analysis-Final) [![Papers](https://img.shields.io/badge/LaTeX_Papers-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/GeorgeJohnson04/LaTeX-Experience)
 
 **Employment & Crime Causal Analysis**  |  `R` `Fixed-Effects Regression`
-> Replicated a published AEA study, estimating the effect of employment on crime and detention length across 8 fixed-effects specifications over **100,000+** data points, with state-clustered standard errors. [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/R-Project-Replication-and-Reanalysis)
+> Replicated a published AEA study, estimating the effect of employment on crime and detention length across 8 fixed-effects specifications over **100,000+** data points, with state-clustered standard errors. [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Employment-on-Crime-Reanlysis-Causal-Inference)
 
 **GDP & Child Mortality Analysis**  |  `STATA` `OLS Regression`
-> Cross-country analysis of GDP per capita and under-five mortality in 1950 and 2018. Three nested models adding schooling, life expectancy, and urbanization raise R² from 0.10 to 0.39.
+> Cross-country analysis of GDP per capita and under-five mortality in 1950 and 2018. Three nested models adding schooling, life expectancy, and urbanization raise R² from 0.10 to 0.39. [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/STATA-Infant-Mortality-VS-GDP)
 
 **Financial Econometrics**  |  `R` `Time Series`
 > Coursework code for JHU Financial Econometrics, starting with stationarity testing (ADF) on daily log returns for financial sector ETFs (XLF, KRE). [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeorgeJohnson04/Financial-Econometrics-)
